@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyDiet</string>
+    <string name="quote3">Fruit is good for your health</string>
+    <string name="quote2">Vegetables help your body</string>
+    <string name="quote1">Balanced diet is good</string>
+    <string name="click_me">Click me</string>
+    <string name="food_picture">Food Picture</string>
+</resources>
